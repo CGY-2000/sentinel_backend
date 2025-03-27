@@ -1,0 +1,18 @@
+# schemas
+pydantic
+
+# http
+fastapi
+
+# server
+uvicorn[standard]
+uvloop
+
+# 认证
+PyJWT
+
+# database
+sqlalchemy[asyncio]
+cryptography
+PyMySQL
+aiomysql

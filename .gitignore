@@ -1,0 +1,22 @@
+# ide
+.idea/
+.vscode/
+
+# venv
+venv/
+.conda/
+
+# cache
+__pycache__/
+
+# image / video
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# test file
+test*.py
+
+
